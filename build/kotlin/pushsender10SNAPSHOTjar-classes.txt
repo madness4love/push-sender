@@ -1,0 +1,1 @@
+C:\Users\Loppop\IdeaProjects\push-sender\build\classes\kotlin\main\ru\netology\pusher\ContactsKt.class;C:\Users\Loppop\IdeaProjects\push-sender\build\classes\kotlin\main\ru\netology\pusher\MainKt.class
