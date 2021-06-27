@@ -23,7 +23,7 @@ fun main() {
 
 fun sendNotificationLike() {
     val message = Message.builder()
-        .putData("action", "LIKE")
+        .putData("action", "like")
         .putData(
             "content", """{
           "userId": 1,
@@ -42,7 +42,7 @@ fun sendNotificationLike() {
 fun sendNotificationNewPost() {
 
     val message = Message.builder()
-        .putData("action", "NEW_POST")
+        .putData("action", "newPost")
         .putData(
             "content", """{
                 "userId": 1,

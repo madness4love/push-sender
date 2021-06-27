@@ -1,4 +1,4 @@
 package ru.netology.pusher
 
 const val dbUrl = ""
-const val token = "eL7xCCGNRAy7FMX0tEDaY3:APA91bEy9Kw2wsME71zk9aCUlGoJNdkd2WKUnqtouWMj9jKMdgWrYmPj4I11OONjKJ4t1tMkIkU0vArQQoMDhBUjNS3vxY0O9oKM7gGXBKOLUSZXwYbyJcSjmL45XhAsEMbs2QyeYPDy"
+const val token = "fEVWeR9lTV6_F8_9kr4vW5:APA91bF4_HXjyKHqeMHs4M6LTDN0JEPpSpb_tYLfh94mBjEP_qLXXkhykPGtTFPG2rh8eQKXjbcAvZHDAbST4cR_k-jwc0PaQU_EiDh7fpcJvHGKtft5CmpNK0qWYPkFhry1oAXBFkHc"
